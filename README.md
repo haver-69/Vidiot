@@ -219,4 +219,4 @@ Vidiot is offered as a full free version with all features and updates included.
 Start editing your videos today with Vidiot! Download now and unlock your creativity.
 
 ---
-**Last updated:** 2026-10-11 20:39:24 UTC
+**Last updated:** 2026-10-12 00:03:06 UTC
